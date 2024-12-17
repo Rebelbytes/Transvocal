@@ -24,11 +24,17 @@
   No internet or API dependencies — fully offline solution.
 
 
-💻 Technology Stack
+
+# 💻 Technology Stack
 
   Frontend: Tkinter (Python GUI)
   
   Translation Library: googletrans (Python library for translation)
   
   Text-to-Speech: pyttsx3 (offline text-to-speech engine)
+
+
+# 📜 License
+
+  This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
